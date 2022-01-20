@@ -1,6 +1,6 @@
 # docker-iperf3
 
-[![Project Maintenance](https://img.shields.io/maintenance/yes/2021.svg)](https://github.com/pedrolamas/docker-iperf3 'GitHub Repository')
+[![Project Maintenance](https://img.shields.io/maintenance/yes/2022.svg)](https://github.com/pedrolamas/docker-iperf3 'GitHub Repository')
 [![License](https://img.shields.io/github/license/pedrolamas/docker-iperf3.svg)](https://github.com/pedrolamas/docker-iperf3/blob/master/LICENSE 'License')
 
 [![CI](https://github.com/pedrolamas/docker-iperf3/workflows/CI/badge.svg)](https://github.com/pedrolamas/docker-iperf3/actions 'Build Status')
